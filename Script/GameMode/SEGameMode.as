@@ -1,0 +1,3 @@
+class ASEGameMode : AGameMode
+{
+}

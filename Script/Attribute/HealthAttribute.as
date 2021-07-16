@@ -1,0 +1,5 @@
+
+class UHealthAttribute : USecAttribute
+{
+	
+}
